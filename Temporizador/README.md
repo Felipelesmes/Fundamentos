@@ -24,6 +24,12 @@ Para este ejercio tuvimos que realizarlo aplicando el modelo para el desarrollo 
 
 ## Capturas
 
+![image](https://user-images.githubusercontent.com/64993522/114415798-a2d0bd80-9b75-11eb-9619-a0d14593eacf.png)
+
+![image](https://user-images.githubusercontent.com/64993522/114415836-ad8b5280-9b75-11eb-832c-47091ea33456.png)
+
+![image](https://user-images.githubusercontent.com/64993522/114415870-b3813380-9b75-11eb-9416-992f7681c2d5.png)
+
 
 
 
