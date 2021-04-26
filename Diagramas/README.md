@@ -22,10 +22,7 @@ Para este patrón usamos un ejercicio el cual consiste en crear un tipo de triá
 
 ## Factroy Method
 
-Para este patrón usamos un ejercicio el cual consiste en crear una figura (Circulo o Rectángulo), implementando este patrón, crea la figura concreta a través de un elemento gráfico, donde la figura particular es solicitada por el cliente (usuario).   
-
-
-## Experiencia
+Para este patrón usamos un ejercicio el cual consiste en crear una figura (Circulo o Rectángulo), implementando este patrón, crea la figura concreta a través de un elemento gráfico, donde la figura particular es solicitada por el cliente (usuario).  
 
 
 
