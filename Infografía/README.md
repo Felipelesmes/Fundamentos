@@ -2,7 +2,7 @@
 
 ## Descripción:
 
-Para este trabajo realizamos una Infografía sobre lo que es un proceso unificado, para poder comprender y entender con mayor claridad a lo que este refiere, su utilidad y todo lo que lo compone.
+Para este trabajo realizamos una Infografía sobre lo que es un proceso unificado de desarrollo, para poder comprender y entender con mayor claridad a lo que este refiere, su utilidad y todo lo que lo compone.
 
 ## Integrantes
 
