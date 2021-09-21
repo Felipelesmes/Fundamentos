@@ -18,19 +18,19 @@ Realizamos para este ejercicio 5 diagramas(UML) los diagramas son:  ***Diagrama 
 * diagrams.net
 
 ### * Diagrama de Clases:
-![image](https://github.com/Felipelesmes/FundamentosIngenieriaS/blob/main/diagramas/Imagenes/DiagramaClases.PNG)
+![image](https://github.com/Felipelesmes/FundamentosIngenieriaS/blob/main/diagramas/Imagenes/DiagramaClases.png)
 
 ### * Diagrama de Secuencia:
-![image](https://github.com/Felipelesmes/FundamentosIngenieriaS/blob/main/diagramas/Imagenes/DiagramaDeSecuencia.PNG)
+![image](https://github.com/Felipelesmes/FundamentosIngenieriaS/blob/main/diagramas/Imagenes/DiagramaDeSecuencia.png)
 
 ### * Diagrama de Casos de Uso:
-![image](https://github.com/Felipelesmes/FundamentosIngenieriaS/blob/main/diagramas/Imagenes/CasosDeUso.PNG)
+![image](https://github.com/Felipelesmes/FundamentosIngenieriaS/blob/main/diagramas/Imagenes/CasosDeUso.png)
 
 ### * Diagrama de Despliegue:
-![image](https://github.com/Felipelesmes/FundamentosIngenieriaS/blob/main/diagramas/Imagenes/Despliegue.PNG)
+![image](https://github.com/Felipelesmes/FundamentosIngenieriaS/blob/main/diagramas/Imagenes/Despliegue.png)
 
 ### * Diagrama de Paquetes:
-![image](https://github.com/Felipelesmes/FundamentosIngenieriaS/blob/main/diagramas/Imagenes/DiagramaPaquetes.PNG)
+![image](https://github.com/Felipelesmes/FundamentosIngenieriaS/blob/main/diagramas/Imagenes/DiagramaPaquetes.png)
 
 
 
