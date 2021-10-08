@@ -10,6 +10,6 @@ A partir del dataset presentamos este proyecto en ambiente web, donde nos permit
 
 ## Herramientas
 
-* diagrams.net
+* -------
 
 ## Proceso
