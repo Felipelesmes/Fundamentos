@@ -20,7 +20,7 @@ Donde damos como propósito del proyecto la representación de los datos del dat
 # Historia de usuario:
 
 En la imagen se describen las historias de usuario junto con los criterios de aceptación y los resultados esperados:
-![image](https://github.com/Felipelesmes/FundamentosIngenieriaS/blob/main/ProyectoFinal/Imagenes/HU.png)
+![image](https://github.com/Felipelesmes/FundamentosIngenieriaS/blob/main/ProyectoFinal/Imagenes/HU1.png)
 
 ## Sprint
 
