@@ -27,15 +27,15 @@ En la imagen se describen las historias de usuario junto con los criterios de ac
 En la metodología Scrum el Sprint es el período en el cual se lleva a cabo el una iteración o trabajo, para la ejecución del Sprint se recomienda que el tiempo estimado sea constante y definido previamente por el equipo de trabajo. La duración del sprint en particular puede alcanzar 2 ó 3 semanas dependiendo del proceso de ejecución (celeridad del equipo) y dificultades que puedan encontrarse en el desarrollo de las iteraciones los cuales deben ser catalogados como un riesgo.
 
 
-* Reunión de inicio de sprint: Reunión para determinar las funcionalidades o historias de usuario que se van a incluir en el próximo incremento.
+* **Reunión de inicio de sprint:** Reunión para determinar las funcionalidades o historias de usuario que se van a incluir en el próximo incremento.
   donde se realizarón reuniones previas al comienzo de la ejecución de cada sprint, definiendo previamente el objetivo, tiempo estimado y el alcance de cada iteración.
   
   Debido a las circunstancias en la cuales se desarrollaba el proyecto, no se realizaban reuniones diarias tal como lo sugiere el marco de trabajo Scrum, por el contrario se       realizaban reuniones de trabajo todos los lunes, jueves y viernes en un espacio de tiempo corto no más de 3 horas con el objetivo de validar el estado de los avances o           inconvenientes presentados durante la ejecución del Sprint.
   
-* Reunión de cierre de sprint: Reunión para probar y analizar el avance del proyecto.
+* **Reunión de cierre de sprint:** Reunión para probar y analizar el avance del proyecto.
   Reunión realizada con el objetivo de probar el trabajo que fue ejecutado para comprobar y dar por finalizado el respectivo sprint.  
   
-* Pila de sprint:
+* **Pila de sprint:**
   En el desarrollo del proyecto, planteamos la pila de sprint bajo el objetivo de convertir este desarrollo en un ambiente web amigable con el usuario. A continuación, en las     imágenes relacionadas abajo, se detalla los Sprint o iteraciones y el periodo en el cual se lleva a cabo el trabajo del equipo, este tiempo es flexible y se permite ir           ajustándolo de acuerdo al ritmo de trabajo del equipo, al finalizar cada sprint el equipo muestra los resultados o avances del mismo.
   
   
