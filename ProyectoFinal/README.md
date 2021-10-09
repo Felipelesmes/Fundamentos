@@ -37,6 +37,7 @@ En la metodología Scrum el Sprint es el período en el cual se lleva a cabo el 
   
 * **Pila de sprint:**
   En el desarrollo del proyecto, planteamos la pila de sprint bajo el objetivo de convertir este desarrollo en un ambiente web amigable con el usuario. A continuación, en las     imágenes relacionadas abajo, se detalla los Sprint o iteraciones y el periodo en el cual se lleva a cabo el trabajo del equipo, este tiempo es flexible y se permite ir           ajustándolo de acuerdo al ritmo de trabajo del equipo, al finalizar cada sprint el equipo muestra los resultados o avances del mismo.
+  ![image](https://github.com/Felipelesmes/FundamentosIngenieriaS/blob/main/ProyectoFinal/Imagenes/SPRINT.png)
   
   
 
