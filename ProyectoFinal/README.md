@@ -12,4 +12,13 @@ A partir del dataset presentamos este proyecto en ambiente web, donde nos permit
 
 * -------
 
-## Proceso
+## Análisis:
+
+Para el desarrollo de este proyecto optamos por usar una de las metodologías ágiles más conocida como Scrum, debemos tener presente que Scrum es un marco de trabajo que nos facilita la manera o forma de trabajar con las personas del equipo. Esta metodología utiliza un proceso iterativo en donde cada iteración se llama sprint, con los sprints se busca en lo posible que sean lo más corto en cuanto al tiempo de ejecución de las tareas, dichos sprint van de la mano con la planificación, ejecución, pruebas. Con esta metodología utilizamos ceremonias de tiempo limitado para planificar, inspeccionar, corregir, y adaptar durante cada sprints de trabajo. Antes de la ejecución de cada sprint se pactamos compromisos de entrega y planificación del trabajo, al final de cada sprint se muestran los resultados.
+Donde damos como propósito del proyecto la representación de los datos del dataset el cual contiene los datos más actuales y precisos disponibles sobre el desarrollo mundial incluidas estimaciones nacionales, regionales e internacionales, donde el usuario hará una búsqueda filtrada por diferentes categorías (País, y/o indicador preciso) y se mostraran los respectivos resultados mediante el uso de tablas y graficas.
+
+# Historia de usuario:
+
+En la imagen se describen las historias de usuario junto con los criterios de aceptación y los resultados esperados:
+![image](https://github.com/Felipelesmes/FundamentosIngenieriaS/blob/main/ProyectoFinal/Imagenes/Class_DiagramAF.PNG)
+
