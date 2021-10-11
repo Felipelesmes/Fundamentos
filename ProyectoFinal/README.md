@@ -47,6 +47,14 @@ En la metodología Scrum el Sprint es el período en el cual se lleva a cabo el 
   ![image](https://github.com/Felipelesmes/FundamentosIngenieriaS/blob/main/ProyectoFinal/Imagenes/SPRINT_1.png)
   ![image](https://github.com/Felipelesmes/FundamentosIngenieriaS/blob/main/ProyectoFinal/Imagenes/SPRINT_2.png)
   
+## Capturas
+Mostramos aquí imagenes del entorno web en funcionamiento y las graficas de los resultados:
+![image](https://github.com/Felipelesmes/FundamentosIngenieriaS/blob/main/ProyectoFinal/Imagenes/Imagen1.png)
+![image](https://github.com/Felipelesmes/FundamentosIngenieriaS/blob/main/ProyectoFinal/Imagenes/Imagen2.png)
+![image](https://github.com/Felipelesmes/FundamentosIngenieriaS/blob/main/ProyectoFinal/Imagenes/Home.png)
+![image](https://github.com/Felipelesmes/FundamentosIngenieriaS/blob/main/ProyectoFinal/Imagenes/Home2.png)
+
+  
   
   
 
