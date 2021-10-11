@@ -14,10 +14,10 @@ A partir del dataset presentamos este proyecto en ambiente web, donde nos permit
 * html
 * python
 * Librerias usadas:
-            * matplotlib.pyplot as plt
-            * import pandas as pd
-            * from flask import Flask, request, render_template
-            * from werkzeug.utils import secure_filename
+* matplotlib.pyplot as plt
+* import pandas as pd
+* from flask import Flask, request, render_template
+* from werkzeug.utils import secure_filename
 
 ## Análisis:
 
