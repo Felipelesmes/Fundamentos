@@ -10,7 +10,9 @@ A partir del dataset presentamos este proyecto en ambiente web, donde nos permit
 
 ## Herramientas
 
-* -------
+* Visual Studio Code
+* python
+* M
 
 ## Análisis:
 
