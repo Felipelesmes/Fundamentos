@@ -59,12 +59,9 @@ def grafica():
             return render_template('grafica.html', imagen={'imagen': plot_url})
         elif grafica == 'barra':
             img = io.BytesIO()
-
-
-            datos = df.head(86).tolist()
-
-            for i in range(len(datos)):
-                plt.bar(i, datos[i], align='center')
+            plt.title("la grafica por: " + columna)
+            #datos = df.head().tolist()
+            datos=df[["país_Code",columna]].plot(kind='bar')
 
             plt.savefig(img, format='png')
             plt.savefig(img, format='png')
